@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rajet JERBI 🌸!</h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRocDR2dmV3aWYxdmRoNGszczZoM21rM3R4OWhsb2J3ajUxNHJuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STroE7bTBLTzxQUrZc/giphy.gif" width="150">
-<p><em>Final-year computer engineering student @ENISo <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently seeking an internship related to my End-of-Studies Project <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Final-year computer engineering student @ENISo <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <p align="left">
